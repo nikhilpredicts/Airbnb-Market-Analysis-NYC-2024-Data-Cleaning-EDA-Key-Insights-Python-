@@ -139,6 +139,15 @@ This project explores pricing dynamics, availability trends, neighbourhood patte
 
 ---
 
-## 👨‍💻 Author  
-👤 **Your Name**  
-🔗 [LinkedIn](#) | [GitHub](#) | [Portfolio](#)  
+## 📬 Contact  
+
+- **Author:** Nikhil Karaka
+- **Email:** karakanikhil2003@gmail.com 
+- **LinkedIn:** [linkedin.com/in/your‑profile](https://www.linkedin.com/in/nikhil-karaka/)  
+
+> For any questions, data clarification, feel free to reach out!  
+
+---  
+
+## *Happy analysing! 🚀*  
+

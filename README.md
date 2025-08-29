@@ -1,5 +1,7 @@
 # 🏠 Airbnb Market Analysis (NYC 2024)— Data Cleaning, EDA, Visualizations.  
 
+<img width="2560" height="1711" alt="image" src="https://github.com/user-attachments/assets/7007c126-2ed1-4db5-ae9e-e986301464aa" />
+
 📊 **An in-depth EDA of Airbnb listings in New York City (2024)**.  
 This project explores pricing dynamics, availability trends, neighbourhood patterns, and correlations across multiple features.  
 
